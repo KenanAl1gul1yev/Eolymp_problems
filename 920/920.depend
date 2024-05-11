@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1709127463 source:c:\users\user\onedrive\documents\e_olymp_problems\920\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
